@@ -13,3 +13,7 @@ npm start
 Then open browser to `localhost:3000` and click to create planets.
 
 ![Screenshot of the engine in action.](./img/screenshot.png "Screenshot of the engine in action.")
+
+### Why?
+
+I was bored one afternoon; there is no real point other than intellectual curiosity.
