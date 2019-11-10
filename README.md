@@ -5,7 +5,7 @@ Built with p5.js and Typescript.
 ### Installing & Usage
 
 ```
-git clone https://github.com/Gaweph/p5-typescript-starter.git
+git clone https://github.com/kontheocharis/gravity-engine
 npm install
 npm start
 ```
